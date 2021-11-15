@@ -96,6 +96,11 @@
   color: white;
 }
 
+.buttons .button.new:hover {
+  background-color: #1059b8;
+  color: white;
+}
+
 .buttons .button.new:disabled {
   cursor: not-allowed;
 }
@@ -104,7 +109,7 @@
   position: absolute;
   left: 15px;
   bottom: 0;
-  width: 250px;
+  width: 200px;
   border: 1px solid #1059b8;
   color: #2987be;
   font-size: 18px;
